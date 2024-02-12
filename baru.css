@@ -1,0 +1,42 @@
+p:hover {
+    font-size: 16px;
+    color: rgb(255, 0, 51);
+    color: rgb(16, 3, 40);
+    cursor: pointer;
+    text-decoration: double;
+}
+.jokes {
+    font-size: 12;
+    color: darkgoldenrod;
+}
+.jokes >p {
+    color: green;
+}
+.jokes > p:hover {
+    color: rgb(0, 255, 21);
+
+}
+
+
+
+input (type="text")  {
+
+    color: blue;
+}
+button:hover {
+    background-color: greenyellow;
+    background-color: darkturquoise;}
+section:nth-of-type(n) {
+    background-color: lightgray;
+}
+section ::first-letter { 
+    color: tomato;
+    font-size: larger;
+}
+section p ::first-line {
+    color: rgb(83, 185, 20);
+}
+section h3::after {
+    content :"@"
+}
+}
