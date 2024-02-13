@@ -1,0 +1,18 @@
+div {
+    width: 300px;
+    border: 15px solid rgb(126, 196, 22);
+    padding: 10px;
+}
+div {
+    border-style: dashed;
+    border-width: 5px;
+    border-top width : 5px;
+    border-bottom width : 10px;
+    
+}
+div { 
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    margin-right: 200px;
+}

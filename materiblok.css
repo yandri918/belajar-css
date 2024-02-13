@@ -1,0 +1,8 @@
+h1 {
+    background-color: aqua;
+border: 5px solid greenyellow;
+}
+span {
+    background-color: blueviolet;
+    border: 2px solid rgb(99, 170, 18);
+}
