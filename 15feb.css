@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+    background-color: beige;
+}
+#container {
+    background-color: rgb(20, 215, 218);
+    width: 90px;
+    height: 500px;
+    margin: 0 auto;
+    border: 5px solid goldenrod;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap ;
+    align-items: flex-end;
+
+
+
+}
+#container div {
+    width: 200px;
+    height: 200px;
+    flex-basis: 500px;
+}
+body {
+    background-color: rgb(241, 245, 236);
+}
+
+main {
+    width: 80%;
+    margin: 0 auto;
+    border: 5px solid black;
+    height: 500px;
+    display: flex;
+
+}
+main .sidebar{
+    background-color: rgb(122, 157, 19);
+    flex: 1;
+main .content {
+    background-color: rgb(153, 81, 94);
+    flex: 2;
+}
+
+
+
+}
+
+
+
